@@ -25,7 +25,7 @@ const Header = () => {
         
         <div className='leftsidebanner'>
           <h3 data-aos="zoom-in-up"><strong>Social And Entertainment Super Platform</strong></h3>
-          <h1 data-aos="zoom-in-up">Socio-Clubbbb</h1>
+          <h1 data-aos="zoom-in-up">Socio-Club</h1>
           <p data-aos="flip-right">Sink Yourself Into Vibes</p>
         </div>
         
