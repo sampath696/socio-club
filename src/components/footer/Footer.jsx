@@ -167,7 +167,7 @@ const Footer = () => {
               rel="noopener noreference"
             >
               <BsPinterest size={25} color="white" className="footer-icon" />
-              <h6 className="text-white my-auto">Pintrests</h6>
+              <h6 className="text-white my-auto">Pintrest</h6>
             </a>
           </div>
           {/* <AiFillFacebook size={25} color="white" className="footer-icon" /> */}
