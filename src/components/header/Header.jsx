@@ -1,4 +1,4 @@
-/* eslint-disable jsx-a11y/iframe-has-title */
+// eslint-disable jsx-a11y/iframe-has-title 
 import React from 'react'
 import './header.css'
 import "slick-carousel/slick/slick.css"; 
@@ -6,7 +6,7 @@ import "slick-carousel/slick/slick-theme.css";
 import { useEffect,useState } from 'react';
 import { Grid } from '@mui/material';
 import image2 from '../image/2.png'
-import banner_image from "../../assets/banner_image.webp";
+import socioclubpromo from "../../assets/socioclubpromo.jpg";
 import prizepodium from "../../assets/prizepodium.webp"
 
 import Aos from 'aos'
@@ -30,7 +30,7 @@ const Header = () => {
         </div>
         
         <div data-aos="zoom-out" className='banner'>
-          <img src={banner_image}  alt="Banner Image" title='Banner Image' />
+          <img src={socioclubpromo}  alt="Socio club promo" title='Banner Image' />
         </div>
 
 

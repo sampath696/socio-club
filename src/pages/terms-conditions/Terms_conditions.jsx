@@ -7,30 +7,30 @@ const TermsConditions = () => {
     <div className="container mt-5 mb-5">
       <h1><strong>Terms and Conditions</strong></h1>
 
-      <p>Welcome to Socio Club!</p>
+      <h3>At Socio Club</h3>
 
       <p>These terms and conditions outline the rules and regulations for the use of NOBALL Entertainments Private Limited's Website, located at www.socio-club.com.</p>
 
-      <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use Socio Club if you do not agree to take all of the terms and conditions stated on this page.</p>
+      <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use <h5>Socio Club</h5> if you do not agree to take all of the terms and conditions stated on this page.</p>
 
       <p>The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.</p>
 
       <h3><strong>Cookies</strong></h3>
 
-      <p>We employ the use of cookies. By accessing Socio Club, you agreed to use cookies in agreement with the NOBALL Entertainments Private Limited's Privacy Policy. </p>
+      <p>We employ the use of cookies. By accessing <h5>Socio Club</h5> , you agreed to use cookies in agreement with the NOBALL Entertainments Private Limited's Privacy Policy. </p>
 
       <p>Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.</p>
 
       <h3><strong>License</strong></h3>
 
-      <p>Unless otherwise stated, NOBALL Entertainments Private Limited and/or its licensors own the intellectual property rights for all material on Socio Club. All intellectual property rights are reserved. You may access this from Socio Club for your own personal use subjected to restrictions set in these terms and conditions.</p>
+      <p>Unless otherwise stated, NOBALL Entertainments Private Limited and/or its licensors own the intellectual property rights for all material on <h5>Socio Club</h5> . All intellectual property rights are reserved. You may access this from <h5>Socio Club</h5> for your own personal use subjected to restrictions set in these terms and conditions.</p>
 
       <p>You must not:</p>
       <ul>
-          <li>Republish material from Socio Club</li>
-          <li>Sell, rent or sub-license material from Socio Club</li>
-          <li>Reproduce, duplicate or copy material from Socio Club</li>
-          <li>Redistribute content from Socio Club</li>
+          <li>Republish material from Socio Club </li>
+          <li>Sell, rent or sub-license material from Socio Club </li>
+          <li>Reproduce, duplicate or copy material from Socio Club </li>
+          <li>Redistribute content from Socio Club </li>
       </ul>
 
       
