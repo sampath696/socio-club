@@ -30,7 +30,7 @@ const Header = () => {
         </div>
         
         <div data-aos="zoom-out" className='banner'>
-          <img src={socioclubpromo}  alt="Socio club promo" title='Banner Image' />
+          <img src={socioclubpromo}  alt="Socio club" title='Banner Image' />
         </div>
 
 
