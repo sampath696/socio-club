@@ -165,12 +165,18 @@ line-height: 24px;
       font-size: 14px;
       line-height: 20px;
   }
+  .text-white{
+    display: none;
+  }
 }
 
 @media screen and (max-width: 400px) {
   .footer-heading h1 {
       font-size: 27px;
       line-height: 38px;
+  }
+  .text-white{
+    display: none;
   }
 }
 .logo-footer{

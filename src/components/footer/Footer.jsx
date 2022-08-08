@@ -6,7 +6,7 @@ import {
   AiOutlineInstagram,
   AiFillLinkedin,
   AiFillFacebook,
-  AiFillPhone,
+  // AiFillPhone,
   AiFillMail,
   AiOutlineYoutube,
   AiOutlineTwitter,
@@ -15,11 +15,11 @@ import { FaBloggerB } from 'react-icons/fa';
 import { SiCrunchbase } from 'react-icons/si';
 import { BsPinterest } from "react-icons/bs";
 import AddLocationIcon from "@mui/icons-material/AddLocation";
-import { useRef } from "react";
+// import { useRef } from "react";
 import { Link } from "react-router-dom";
 
-import { RiDiscordFill } from "react-icons/ri";
-import { FaTelegramPlane } from "react-icons/fa";
+// import { RiDiscordFill } from "react-icons/ri";
+// import { FaTelegramPlane } from "react-icons/fa";
 const Footer = () => {
   return (
     <div className="footer section__padding" id="Contact">

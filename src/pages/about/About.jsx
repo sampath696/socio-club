@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/iframe-has-title */
 import React from "react";
 import "./About.css";
-import { InstagramEmbed } from "react-social-media-embed";
+// import { InstagramEmbed } from "react-social-media-embed";
 
 function About() {
   return (
@@ -9,7 +9,7 @@ function About() {
       <h1> Our Super App</h1>
 
       <iframe
-        className="ytl1"
+        className="ytl"
         width="560"
         height="315"
         src="https://www.youtube.com/embed/2Jh9ApWWrjg"
