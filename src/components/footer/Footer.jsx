@@ -9,8 +9,10 @@ import {
   AiFillPhone,
   AiFillMail,
   AiOutlineYoutube,
-  AiOutlineTwitter
+  AiOutlineTwitter,
 } from "react-icons/ai";
+import { FaBloggerB } from 'react-icons/fa';
+import { SiCrunchbase } from 'react-icons/si';
 import { BsPinterest } from "react-icons/bs";
 import AddLocationIcon from "@mui/icons-material/AddLocation";
 import { useRef } from "react";
@@ -122,6 +124,18 @@ const Footer = () => {
               <h6 className="text-white my-auto">Facebook</h6>
             </a>
           </div>
+          <div className="card-icon">
+            <a
+              target="_blank"
+              className="d-flex"
+              href="https://medium.com/@www.rohira03/the-best-entertainment-app-2022-socio-club-ee7a6e08278b"
+              rel="noopener noreference"
+            >
+              <FaBloggerB size={25} color="white" className="footer-icon" />
+              {/* <img src={crunchbaseicon} alt="blogicon" /> */}
+              <h6 className="text-white my-auto">Blog</h6>
+            </a>
+          </div>
           {/* <AiFillFacebook size={25} color="white" className="footer-icon" /> */}
         </div>
       </div>
@@ -168,6 +182,18 @@ const Footer = () => {
             >
               <BsPinterest size={25} color="white" className="footer-icon" />
               <h6 className="text-white my-auto">Pintrest</h6>
+            </a>
+          </div>
+
+          <div className="card-icon">
+            <a
+              target="_blank"
+              className="d-flex"
+              href="https://www.crunchbase.com/organization/socio-club"
+              rel="noopener noreference"
+            >
+              <SiCrunchbase size={25} color="white" className="footer-icon" />
+              <h6 className="text-white my-auto">Crunch base</h6>
             </a>
           </div>
           {/* <AiFillFacebook size={25} color="white" className="footer-icon" /> */}

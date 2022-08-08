@@ -1,6 +1,7 @@
 import './App.css';
 import {Navbar,Footer} from './components'
-import {Home} from './pages'
+// import {Home} from './pages';
+import Home from './pages/home/Home';
 import Privacypolicy from './pages/privacy-policy/Privacy_policy';
 import TermsConditions from './pages/terms-conditions/Terms_conditions';
 import Contactus from './pages/contactus/Contactus';
