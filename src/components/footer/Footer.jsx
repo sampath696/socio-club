@@ -94,7 +94,7 @@ const Footer = () => {
               rel="noopener noreference"
             >
               <AiFillLinkedin size={25} color="white" className="footer-icon" />
-              <h6 className="text-white my-auto">LinkedIn</h6>
+              <h6 className="text-white ft my-auto">LinkedIn</h6>
             </a>
           </div>
 
@@ -110,7 +110,7 @@ const Footer = () => {
                 color="white"
                 className="footer-icon"
               />
-              <h6 className="text-white my-auto">Instagram</h6>
+              <h6 className="text-white ft my-auto">Instagram</h6>
             </a>
           </div>
           <div className="card-icon">
@@ -121,7 +121,7 @@ const Footer = () => {
               rel="noopener noreference"
             >
               <AiFillFacebook size={25} color="white" className="footer-icon" />
-              <h6 className="text-white my-auto">Facebook</h6>
+              <h6 className="text-white ft my-auto">Facebook</h6>
             </a>
           </div>
           <div className="card-icon">
@@ -133,7 +133,7 @@ const Footer = () => {
             >
               <FaBloggerB size={25} color="white" className="footer-icon" />
               {/* <img src={crunchbaseicon} alt="blogicon" /> */}
-              <h6 className="text-white my-auto">Blog</h6>
+              <h6 className="text-white ft my-auto">Blog</h6>
             </a>
           </div>
           {/* <AiFillFacebook size={25} color="white" className="footer-icon" /> */}
@@ -154,7 +154,7 @@ const Footer = () => {
                 color="white"
                 className="footer-icon"
               />
-              <h6 className="text-white my-auto">YouTube</h6>
+              <h6 className="text-white ft my-auto">YouTube</h6>
             </a>
           </div>
 
@@ -170,7 +170,7 @@ const Footer = () => {
                 color="white"
                 className="footer-icon"
               />
-              <h6 className="text-white my-auto">Twitter</h6>
+              <h6 className="text-white ft my-auto">Twitter</h6>
             </a>
           </div>
           <div className="card-icon">
@@ -181,7 +181,7 @@ const Footer = () => {
               rel="noopener noreference"
             >
               <BsPinterest size={25} color="white" className="footer-icon" />
-              <h6 className="text-white my-auto">Pintrest</h6>
+              <h6 className="text-white ft my-auto">Pintrest</h6>
             </a>
           </div>
 
@@ -193,7 +193,7 @@ const Footer = () => {
               rel="noopener noreference"
             >
               <SiCrunchbase size={25} color="white" className="footer-icon" />
-              <h6 className="text-white my-auto">Crunch base</h6>
+              <h6 className="text-white ft my-auto">Crunch base</h6>
             </a>
           </div>
           {/* <AiFillFacebook size={25} color="white" className="footer-icon" /> */}

@@ -165,7 +165,7 @@ line-height: 24px;
       font-size: 14px;
       line-height: 20px;
   }
-  .text-white{
+  .ft{
     display: none;
   }
 }
@@ -175,7 +175,7 @@ line-height: 24px;
       font-size: 27px;
       line-height: 38px;
   }
-  .text-white{
+  .ft{
     display: none;
   }
 }
