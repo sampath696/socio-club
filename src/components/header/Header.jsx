@@ -7,7 +7,7 @@ import { useEffect,useState } from 'react';
 import { Grid } from '@mui/material';
 import image2 from '../image/2.png'
 import socioclubpromo from "../../assets/socioclubpromo.jpg";
-import prizepodium from "../../assets/prizepodium.webp"
+import prizepodium from "../../assets/prizepodium2.webp"
 
 import Aos from 'aos'
 import "aos/dist/aos.css"

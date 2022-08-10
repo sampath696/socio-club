@@ -1,11 +1,11 @@
 import React, { useEffect } from "react";
 import "./bids.css";
 import audiobook from "../../club/audiobook.webp";
-import Contest from "../../assets/Contest.webp";
+import Contest from "../../assets/Contest2.webp";
 import Crypto from "../../club/digital.webp";
 import Music from "../../club/music-note.webp";
 import Radio from "../../club/radio.webp";
-import Memes from "../../assets/Memes.webp";
+import Meme from "../../assets/Meme.webp";
 import chatbot from "../../club/chatbot.webp";
 import Podcast from "../../club/live.webp";
 import Anonymousw from "../../club/anonymous.webp";
@@ -124,7 +124,7 @@ const Bids = ({ title }) => {
               <div className="bids-card-top">
                 <img
                   src={Contest}
-                  className="image-responsive"
+                  className="image-responsive cntst"
                   alt="Contests"
                   title="Contests"
                 />
@@ -212,7 +212,7 @@ const Bids = ({ title }) => {
           <div className="card-column">
             <div data-aos="fade-up" className="bids-card bg-white">
               <div className="bids-card-top">
-                <img src={Memes} alt="Memes" title="Memes" />
+                <img src={Meme} alt="Memes" title="Memes" />
                 {/* <Link to={`/post/123`}> */}
                 <h5 className="bids-title text-dark text-center fw-bolder mt-2">
                   Memes
