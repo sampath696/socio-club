@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import "./bids.css";
 import audiobook from "../../club/audiobook.webp";
-import Contest from "../../assets/Contest2.webp";
+import Contest from "../../assets/socioclubcontest2.webp";
 import Crypto from "../../club/digital.webp";
 import Music from "../../club/music-note.webp";
 import Radio from "../../club/radio.webp";
@@ -124,7 +124,7 @@ const Bids = ({ title }) => {
               <div className="bids-card-top">
                 <img
                   src={Contest}
-                  className="image-responsive cntst"
+                  className="image-responsive"
                   alt="Contests"
                   title="Contests"
                 />

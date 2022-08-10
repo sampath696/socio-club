@@ -25,12 +25,12 @@ const Header = () => {
         
         <div className='leftsidebanner'>
           <h3 data-aos="zoom-in-up"><strong>Social And Entertainment Super Platform</strong></h3>
-          <h1 data-aos="zoom-in-up">Socio-Club</h1>
+          <h1 data-aos="zoom-in-up">SocioClub</h1>
           <p data-aos="flip-right">Sink Yourself Into Vibes</p>
         </div>
         
         <div data-aos="zoom-out" className='banner'>
-          <img src={socioclubpromo}  alt="Socio club" title='Banner Image' />
+          <img src={socioclubpromo}  alt="Socioclub superapp" title='Super App' />
         </div>
 
 
@@ -39,7 +39,7 @@ const Header = () => {
       
       <div className="header-slider">
       </div>
-      <iframe className='ytl' data-aos="zoom-out" width="885" height="498" src="https://www.youtube.com/embed/HhDDiS_8J2Q?autoplay=1&loop=1&fs=0&color=white&controls=1&disablekb=1&playlist=HhDDiS_8J2Q" rel='noreference' allowFullScreen></iframe>
+      <iframe className='ytl' data-aos="zoom-out" width="885" height="498" title="socioclub superapp" src="https://www.youtube.com/embed/HhDDiS_8J2Q?autoplay=1&loop=1&fs=0&color=white&controls=1&disablekb=1&playlist=HhDDiS_8J2Q" rel='noreference' allowFullScreen></iframe>
       <div className="header-slider1">
         <Grid container>
         <Grid item md={1}/>

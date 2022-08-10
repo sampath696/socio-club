@@ -1,4 +1,4 @@
-@media screen and (max-width: 550px) {
+/* @media screen and (max-width: 550px) {
     .ytl{
         width: 600px;
       }
@@ -8,12 +8,27 @@
         width: 100%;
         height: 300px;
       }
+} */
+
+.iframe-container{
+  text-align: center;
+  width: 100%;
 }
 
-.ytl1{
+.imagesuper{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+
+/* .ytl1{
   position: relative;
   left: 30%;
-}
+} */
 .para{
   margin: 20px;
   font-size: 20px;
