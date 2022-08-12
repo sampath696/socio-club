@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a9029531.css",
-    "main.js": "/static/js/main.c6ce7ef8.js",
-    "static/media/socioclubpromo.jpg": "/static/media/socioclubpromo.84bc50b7608a9740558b.jpg",
+    "main.js": "/static/js/main.0a1f879a.js",
+    "static/media/socioclub mockmock.webp": "/static/media/socioclub mockmock.cf883d22b50107047c5c.webp",
     "static/media/socioclubcontest.webp": "/static/media/socioclubcontest.0e036ffe266a1c015af6.webp",
     "static/media/Meme.webp": "/static/media/Meme.4ff5c755765e7baa6de4.webp",
     "static/media/socioclubsuperapp.jpeg": "/static/media/socioclubsuperapp.d9cf23efd8199357d5f2.jpeg",
@@ -31,10 +31,10 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.a9029531.css.map": "/static/css/main.a9029531.css.map",
-    "main.c6ce7ef8.js.map": "/static/js/main.c6ce7ef8.js.map"
+    "main.0a1f879a.js.map": "/static/js/main.0a1f879a.js.map"
   },
   "entrypoints": [
     "static/css/main.a9029531.css",
-    "static/js/main.c6ce7ef8.js"
+    "static/js/main.0a1f879a.js"
   ]
 }
