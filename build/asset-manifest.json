@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.27e7e589.css",
-    "main.js": "/static/js/main.85c043c4.js",
-    "static/media/banner_image.webp": "/static/media/banner_image.505da17445e892676aa5.webp",
-    "static/media/Memes.webp": "/static/media/Memes.fcdad5bdedd28b4b3ddd.webp",
-    "static/media/Contest.webp": "/static/media/Contest.312abce361677ba85200.webp",
-    "static/media/prizepodium.webp": "/static/media/prizepodium.68f459891ea3a55bba88.webp",
+    "main.css": "/static/css/main.a9029531.css",
+    "main.js": "/static/js/main.c6ce7ef8.js",
+    "static/media/socioclubpromo.jpg": "/static/media/socioclubpromo.84bc50b7608a9740558b.jpg",
+    "static/media/socioclubcontest.webp": "/static/media/socioclubcontest.0e036ffe266a1c015af6.webp",
+    "static/media/Meme.webp": "/static/media/Meme.4ff5c755765e7baa6de4.webp",
+    "static/media/socioclubsuperapp.jpeg": "/static/media/socioclubsuperapp.d9cf23efd8199357d5f2.jpeg",
+    "static/media/socioclubcontest2.webp": "/static/media/socioclubcontest2.8ccc0efb6fc48c50b4f5.webp",
     "static/media/audiobook.webp": "/static/media/audiobook.6c4892bfb284cb95b780.webp",
     "static/media/digital.webp": "/static/media/digital.ff3d2b487cc452221cd0.webp",
     "static/media/shopping-cart.webp": "/static/media/shopping-cart.39d4e2d272bc8be64755.webp",
@@ -29,11 +30,11 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.27e7e589.css.map": "/static/css/main.27e7e589.css.map",
-    "main.85c043c4.js.map": "/static/js/main.85c043c4.js.map"
+    "main.a9029531.css.map": "/static/css/main.a9029531.css.map",
+    "main.c6ce7ef8.js.map": "/static/js/main.c6ce7ef8.js.map"
   },
   "entrypoints": [
-    "static/css/main.27e7e589.css",
-    "static/js/main.85c043c4.js"
+    "static/css/main.a9029531.css",
+    "static/js/main.c6ce7ef8.js"
   ]
 }
