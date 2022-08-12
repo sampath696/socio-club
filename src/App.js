@@ -7,7 +7,6 @@ import TermsConditions from './pages/terms-conditions/Terms_conditions';
 import Contactus from './pages/contactus/Contactus';
 import About from './pages/about/About';
 import { Routes, Route } from "react-router-dom";
-// import "./trueno-cufonfonts-webfont/TruenoBd.woff"
 
 function App() {
   return (

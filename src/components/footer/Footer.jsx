@@ -1,4 +1,3 @@
-/* eslint-disable react/jsx-no-target-blank */
 import React from "react";
 import "./footer.css";
 import nftlogo from "../../assets/logo.png";
@@ -6,20 +5,15 @@ import {
   AiOutlineInstagram,
   AiFillLinkedin,
   AiFillFacebook,
-  // AiFillPhone,
   AiFillMail,
   AiOutlineYoutube,
   AiOutlineTwitter,
 } from "react-icons/ai";
-import { FaBloggerB } from 'react-icons/fa';
-import { SiCrunchbase } from 'react-icons/si';
+import { FaBloggerB } from "react-icons/fa";
+import { SiCrunchbase } from "react-icons/si";
 import { BsPinterest } from "react-icons/bs";
 import AddLocationIcon from "@mui/icons-material/AddLocation";
-// import { useRef } from "react";
 import { Link } from "react-router-dom";
-
-// import { RiDiscordFill } from "react-icons/ri";
-// import { FaTelegramPlane } from "react-icons/fa";
 const Footer = () => {
   return (
     <div className="footer section__padding" id="Contact">
@@ -28,13 +22,6 @@ const Footer = () => {
           <div className="logo-footer">
             <img src={nftlogo} alt="logo" />
           </div>
-          {/* <div>
-            <h3>Get the lastes Updates</h3>
-          </div>
-          <div>
-            <input type="text" placeholder="Your Email" />
-            <button>Email Me!</button>
-          </div> */}
         </div>
         <div
           className="footer-links_div"
@@ -43,6 +30,7 @@ const Footer = () => {
         >
           <h4 className="ms-4"> Contact</h4>
           <a
+            rel="noreferrer"
             itemProp="address"
             target="_blank"
             href="https://maps.app.goo.gl/SS9fkf3JKzbyQ1Qg8"
@@ -53,6 +41,7 @@ const Footer = () => {
             </p>
           </a>
           <a
+            rel="noreferrer"
             itemProp="email"
             href="https://mail.google.com/mail/u/0/?fs=1&to=socioclubsc@gmail.com&tf=cm"
             target="_blank"
@@ -91,7 +80,7 @@ const Footer = () => {
               target="_blank"
               className="d-flex"
               href="https://www.linkedin.com/company/socioclub/"
-              rel="noopener noreference"
+              rel="noreferrer"
             >
               <AiFillLinkedin size={25} color="white" className="footer-icon" />
               <h6 className="text-white ft my-auto">LinkedIn</h6>
@@ -103,7 +92,7 @@ const Footer = () => {
               target="_blank"
               className="d-flex"
               href="https://instagram.com/socio__club?utm_medium=copy_link"
-              rel="noopener noreference"
+              rel="noreferrer"
             >
               <AiOutlineInstagram
                 size={25}
@@ -118,7 +107,7 @@ const Footer = () => {
               target="_blank"
               className="d-flex"
               href="https://www.facebook.com/Socio-Club-102669199089556"
-              rel="noopener noreference"
+              rel="noreferrer"
             >
               <AiFillFacebook size={25} color="white" className="footer-icon" />
               <h6 className="text-white ft my-auto">Facebook</h6>
@@ -129,14 +118,12 @@ const Footer = () => {
               target="_blank"
               className="d-flex"
               href="https://medium.com/@www.rohira03/the-best-entertainment-app-2022-socio-club-ee7a6e08278b"
-              rel="noopener noreference"
+              rel="noreferrer"
             >
               <FaBloggerB size={25} color="white" className="footer-icon" />
-              {/* <img src={crunchbaseicon} alt="blogicon" /> */}
               <h6 className="text-white ft my-auto">Blog</h6>
             </a>
           </div>
-          {/* <AiFillFacebook size={25} color="white" className="footer-icon" /> */}
         </div>
       </div>
 
@@ -147,7 +134,7 @@ const Footer = () => {
               target="_blank"
               className="d-flex"
               href="https://www.youtube.com/channel/UCDgEYBxdVoiwzxR2VsxTZUA"
-              rel="noopener noreference"
+              rel="noreferrer"
             >
               <AiOutlineYoutube
                 size={25}
@@ -163,7 +150,7 @@ const Footer = () => {
               target="_blank"
               className="d-flex"
               href="https://twitter.com/Socio__Club"
-              rel="noopener noreference"
+              rel="noreferrer"
             >
               <AiOutlineTwitter
                 size={25}
@@ -178,7 +165,7 @@ const Footer = () => {
               target="_blank"
               className="d-flex"
               href="https://pin.it/7ve2zKB"
-              rel="noopener noreference"
+              rel="noreferrer"
             >
               <BsPinterest size={25} color="white" className="footer-icon" />
               <h6 className="text-white ft my-auto">Pintrest</h6>
@@ -190,13 +177,12 @@ const Footer = () => {
               target="_blank"
               className="d-flex"
               href="https://www.crunchbase.com/organization/socio-club"
-              rel="noopener noreference"
+              rel="noreferrer"
             >
               <SiCrunchbase size={25} color="white" className="footer-icon" />
               <h6 className="text-white ft my-auto">Crunch base</h6>
             </a>
           </div>
-          {/* <AiFillFacebook size={25} color="white" className="footer-icon" /> */}
         </div>
       </div>
     </div>

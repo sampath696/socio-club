@@ -22,8 +22,6 @@ import globalnetwork from "../../club/news.webp";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
-// import { Link } from 'react-router-dom';
-
 const Bids = ({ title }) => {
   useEffect(() => {
     Aos.init({ duration: 2000 });
@@ -34,7 +32,8 @@ const Bids = ({ title }) => {
       <div className="bids-container">
         <div data-aos="zoom-in" className="bids-container-text">
           {/*<h1>Club Features</h1>*/}
-          <p className="fw-bolder display-4 text-center">Club Features</p><br />
+          <p className="fw-bolder display-4 text-center">Club Features</p>
+          <br />
         </div>
         <div className="bids-container-card">
           <div className="card-column">
@@ -51,7 +50,8 @@ const Bids = ({ title }) => {
                   Games
                 </h5>
                 <div className="text-dark text-center texth">
-                  Games club - <br /><h6> Free games to play online!{" "}</h6>
+                  Games club - <br />
+                  <h6> Free games to play online! </h6>
                 </div>
                 {/* </Link> */}
               </div>
@@ -71,8 +71,12 @@ const Bids = ({ title }) => {
                   Books
                 </h5>
                 <div className="text-dark text-center texth">
-                  Books club - <br /><h6> Free ebooks to read and download. Get Some
-                  stuff and Read the Books</h6>
+                  Books club - <br />
+                  <h6>
+                    {" "}
+                    Free ebooks to read and download. Get Some stuff and Read
+                    the Books
+                  </h6>
                 </div>
                 {/* </Link> */}
               </div>
@@ -92,8 +96,12 @@ const Bids = ({ title }) => {
                   Audio Books
                 </h5>
                 <div className="text-dark text-center texth">
-                  Audio Books club - <br /><h6> Audio books online. Very lazy to
-                  read the books,listen the books</h6>
+                  Audio Books club - <br />
+                  <h6>
+                    {" "}
+                    Audio books online. Very lazy to read the books,listen the
+                    books
+                  </h6>
                 </div>
                 {/* </Link> */}
               </div>
@@ -113,7 +121,8 @@ const Bids = ({ title }) => {
                   News
                 </h5>
                 <div className="text-dark text-center texth">
-                  News club - <br /><h6> Daily Updated Real News</h6>
+                  News club - <br />
+                  <h6> Daily Updated Real News</h6>
                 </div>
                 {/* </Link> */}
               </div>
@@ -133,7 +142,8 @@ const Bids = ({ title }) => {
                   Contests
                 </h5>
                 <div className="text-dark text-center texth">
-                  Contests club - <br /><h6> On Everything Participate and Win</h6>
+                  Contests club - <br />
+                  <h6> On Everything Participate and Win</h6>
                   Rewards
                 </div>
                 {/* </Link> */}
@@ -154,7 +164,8 @@ const Bids = ({ title }) => {
                   NFT'S
                 </h5>
                 <div className="text-dark text-center texth">
-                  Nft's club - <br /><h6> Check Trending Nft's and Crypto Things</h6>
+                  Nft's club - <br />
+                  <h6> Check Trending Nft's and Crypto Things</h6>
                 </div>
                 {/* </Link> */}
               </div>
@@ -184,7 +195,8 @@ const Bids = ({ title }) => {
                   Radio
                 </h5>
                 <div className="text-dark text-center texth">
-                  Radio club - <br /> <h6>Listen to all Radio live stations free!</h6>
+                  Radio club - <br />{" "}
+                  <h6>Listen to all Radio live stations free!</h6>
                 </div>
                 {/* </Link> */}
               </div>
@@ -218,7 +230,8 @@ const Bids = ({ title }) => {
                   Memes
                 </h5>
                 <div className="text-dark text-center texth">
-                  Memes club - <br /><h6>Explore all time best memes live.</h6> 
+                  Memes club - <br />
+                  <h6>Explore all time best memes live.</h6>
                 </div>
                 {/* </Link> */}
               </div>
@@ -233,7 +246,8 @@ const Bids = ({ title }) => {
                   Podcasts
                 </h5>
                 <div className="text-dark text-center texth">
-                  Podcasts club - <br /> <h6>6Listen to Podcasts All over the World</h6>
+                  Podcasts club - <br />{" "}
+                  <h6>6Listen to Podcasts All over the World</h6>
                 </div>
                 {/* </Link> */}
               </div>
@@ -248,8 +262,11 @@ const Bids = ({ title }) => {
                   Anonymous
                 </h5>
                 <div className="text-dark text-center texth">
-                  Anonymous club - <br /> <h6>Anyone can Securely post anything, as
-                  truth as hard, as Anonymous person. </h6>
+                  Anonymous club - <br />{" "}
+                  <h6>
+                    Anyone can Securely post anything, as truth as hard, as
+                    Anonymous person.{" "}
+                  </h6>
                 </div>
                 {/* </Link> */}
               </div>
@@ -269,7 +286,8 @@ const Bids = ({ title }) => {
                   Gaming Videos
                 </h5>
                 <div className="text-dark text-center texth">
-                  Gaming Videos club - <br /><h6> Watch all the Free Gaming Videos.</h6>{" "}
+                  Gaming Videos club - <br />
+                  <h6> Watch all the Free Gaming Videos.</h6>{" "}
                 </div>
                 {/* </Link> */}
               </div>
@@ -286,7 +304,10 @@ const Bids = ({ title }) => {
                 </h5>
                 <div className="text-dark text-center texth">
                   Fitness club - <br />
-                 <h6> Watch free live Exercises and do Workouts and Be Fit.</h6>
+                  <h6>
+                    {" "}
+                    Watch free live Exercises and do Workouts and Be Fit.
+                  </h6>
                 </div>
                 {/* </Link> */}
               </div>
@@ -301,7 +322,8 @@ const Bids = ({ title }) => {
                   Quiz
                 </h5>
                 <div className="text-dark text-center texth">
-                  Quiz club - <br /><h6> Play and Participate in All Free Quizs</h6>
+                  Quiz club - <br />
+                  <h6> Play and Participate in All Free Quizs</h6>
                 </div>
                 {/* </Link> */}
               </div>
@@ -316,7 +338,8 @@ const Bids = ({ title }) => {
                   Breathing
                 </h5>
                 <div className="text-dark text-center texth">
-                  Breathing club - <br /><h6> Practice Breathing and Be Healthy</h6>{" "}
+                  Breathing club - <br />
+                  <h6> Practice Breathing and Be Healthy</h6>{" "}
                 </div>
                 {/* </Link> */}
               </div>
@@ -331,7 +354,8 @@ const Bids = ({ title }) => {
                   Shop
                 </h5>
                 <div className="text-dark text-center texth">
-                  Shopping club - <br /><h6> Shop online everything.{" "}</h6>
+                  Shopping club - <br />
+                  <h6> Shop online everything. </h6>
                 </div>
                 {/* </Link> */}
               </div>
@@ -350,7 +374,8 @@ const Bids = ({ title }) => {
                   Crypto
                 </h5>
                 <div className="text-dark text-center texth">
-                  Crypto club - <br /><h6> Check all live crypto prices.{" "}</h6>
+                  Crypto club - <br />
+                  <h6> Check all live crypto prices. </h6>
                 </div>
                 {/* </Link> */}
               </div>
